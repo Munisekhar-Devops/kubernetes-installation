@@ -1,2 +1,2 @@
-access key = AKIAYYRQNE2UVJLJZXPQ
-secret key = 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
+access key = AKIAY
+secret key = aM7OL
